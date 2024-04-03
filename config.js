@@ -28,7 +28,7 @@ global.premium = ['918281428059'];
 global.packname = '*⃟𝐖ʜɪᴛ⃖⃗ᴇ͓͛⭑𝐒ᴇ͓͛ʀ⃞🇨🇺*';
 global.author = '*⃟𝐖ʜɪᴛ⃖⃗ᴇ͓͛⭑𝐒ᴇ͓͛ʀ⃞🇨🇺*';
 global.sessionName = 'session';
-global.prefa = ['!', '.'];
+global.prefa = [,];
 global.sp = '✪';
 global.mess = {
     banned: '`You are *Banned* fron using commands!`',
